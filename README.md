@@ -3,7 +3,7 @@
 A simple Myntra Clone built using HTML, CSS, and JavaScript.
 This project is a static frontend-only implementation inspired by Myntra’s e-commerce platform, showcasing a modern and responsive UI for browsing fashion products.
 
-# Features●
+# Features
 ● Responsive design for desktop and mobile
 
 ● Homepage with banner and product categories
